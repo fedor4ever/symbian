@@ -1,3 +1,6 @@
 [submodule "internet-radio"]
 	path = internet-radio
 	url = https://github.com/fedor4ever/internet-radio.git
+[submodule "public-headers"]
+	path = public-headers
+	url = https://github.com/fedor4ever/public-headers.git
