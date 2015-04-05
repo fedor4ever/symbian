@@ -7,3 +7,6 @@
 [submodule "shai"]
 	path = shai
 	url = https://github.com/fedor4ever/SHAI.git
+[submodule "examples/NRP"]
+	path = examples/NRP
+	url = https://github.com/fedor4ever/NRP.git
