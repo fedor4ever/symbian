@@ -10,3 +10,6 @@
 [submodule "examples/NRP"]
 	path = examples/NRP
 	url = https://github.com/fedor4ever/NRP.git
+[submodule "examples/QT1"]
+	path = examples/QT1
+	url = https://github.com/fedor4ever/qt_examples_1.git
