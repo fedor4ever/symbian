@@ -4,3 +4,6 @@
 [submodule "public-headers"]
 	path = public-headers
 	url = https://github.com/fedor4ever/public-headers.git
+[submodule "shai"]
+	path = shai
+	url = https://github.com/fedor4ever/SHAI.git
